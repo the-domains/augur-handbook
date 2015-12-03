@@ -4,14 +4,14 @@
         <description><![CDATA[Augur Handbook]]></description>
         <link>https://thegrid.ai/augur-handbook/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 03 Dec 2015 02:09:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Dec 2015 02:13:04 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/augur-handbook/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>testing 2</p>]]></description>
+            <title><![CDATA[Reading List]]></title>
+            <description><![CDATA[<article><h1>Reading List</h1><p>s</p></article>]]></description>
             <link>https://thegrid.ai/augur-handbook/36a33cdf-a762-4d86-a2ee-9324590507b7/index.html</link>
             <guid isPermaLink="false">36a33cdf-a762-4d86-a2ee-9324590507b7</guid>
-            <pubDate>Thu, 03 Dec 2015 01:49:05 GMT</pubDate>
+            <pubDate>Thu, 03 Dec 2015 02:12:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
