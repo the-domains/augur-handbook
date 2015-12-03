@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-03T02:41:23.350Z'
-dateModified: '2015-12-03T02:41:17.305Z'
+datePublished: '2015-12-03T02:52:54.481Z'
+dateModified: '2015-12-03T02:52:51.248Z'
 title: Remote Work Guidelines
 author: []
 sourcePath: _posts/2015-12-03-remote-work-guidelines.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: remote-work-guidelines/index.html
-_type: Article
+_type: WebPage
 
 ---
 [Writing: A Key to Effective Communication in a Remote Team][0]
