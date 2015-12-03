@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: Books to read
-datePublished: '2015-12-03T02:39:43.518Z'
-dateModified: '2015-12-03T02:39:24.351Z'
+datePublished: '2015-12-03T02:41:32.470Z'
+dateModified: '2015-12-03T02:41:06.209Z'
 title: Reading List
 author: []
 authors: []
