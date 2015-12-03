@@ -1,7 +1,7 @@
 name: Augur Handbook
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.2543
+layout_spectrum: 0.89039
+typography_spectrum: 0.5
 title: Augur Handbook
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#ff0000'
     - '#550000'
     - '#00ff00'
-  brandStrength: 0.75
-  lightness: 0.9399920939467847
-  saturation: 0.25
-  rhythmicContrast: 0.2314580928068608
+  brandStrength: 0.5
+  lightness: 0.8125
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
