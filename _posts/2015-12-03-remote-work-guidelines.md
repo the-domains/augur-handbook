@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-03T02:28:43.242Z'
-dateModified: '2015-12-03T02:28:38.530Z'
+datePublished: '2015-12-03T02:31:55.720Z'
+dateModified: '2015-12-03T02:31:52.144Z'
 title: Remote Work Guidelines
 author: []
+sourcePath: _posts/2015-12-03-remote-work-guidelines.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-03-remote-work-guidelines.md
-published: true
 url: remote-work-guidelines/index.html
 _type: Article
 
