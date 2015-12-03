@@ -4,7 +4,7 @@
         <description><![CDATA[Augur Handbook]]></description>
         <link>https://thegrid.ai/augur-handbook/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 03 Dec 2015 02:13:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Dec 2015 02:13:42 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/augur-handbook/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Reading List]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/augur-handbook/36a33cdf-a762-4d86-a2ee-9324590507b7/index.html</link>
             <guid isPermaLink="false">36a33cdf-a762-4d86-a2ee-9324590507b7</guid>
             <pubDate>Thu, 03 Dec 2015 02:12:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Remote Work Guidelines]]></title>
+            <description><![CDATA[<article><h1>Remote Work Guidelines</h1><p>Writing: A Key to Effective Communication in a Remote Team</p></article>]]></description>
+            <link>https://thegrid.ai/augur-handbook/remote-work-guidelines/index.html</link>
+            <guid isPermaLink="false">27b12989-e233-4c04-9df1-f12112716604</guid>
+            <pubDate>Thu, 03 Dec 2015 02:13:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
