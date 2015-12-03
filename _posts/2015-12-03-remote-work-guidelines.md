@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-03T02:52:54.481Z'
-dateModified: '2015-12-03T02:52:51.248Z'
+datePublished: '2015-12-03T13:58:29.869Z'
+dateModified: '2015-12-03T13:58:27.059Z'
 title: Remote Work Guidelines
 author: []
 sourcePath: _posts/2015-12-03-remote-work-guidelines.md
@@ -32,9 +32,13 @@ _type: WebPage
 
 [To Raise Productivity, Let More Employees Work from Home][4]
 
-[How to Work Remotely and Still Be the Best][5][][3]
+[How to Work Remotely and Still Be the Best][5]
 
-[][3]Use [Slack][6] & [Asana][7]
+[The Ultimate Guide to Remote Work][6][][6]
+
+Use [Slack][7] & [Asana][8]
+
+If you have a suggestion or don't like something about the product, make an [issue on GitHub][9][][8]
 
 [0]: http://teleport.org/2015/11/writing-in-remote-team/
 [1]: http://devslovebacon.com/conferences/bacon-2014/talks/remote-by-default-how-github-makes-working-remotely-not-suck
@@ -42,5 +46,7 @@ _type: WebPage
 [3]: http://teleport.org/2015/09/overcoming-remote-work-roadblocks/
 [4]: https://hbr.org/2014/01/to-raise-productivity-let-more-employees-work-from-home/ar/1
 [5]: http://www.toptal.com/freelance/how-to-work-remotely-and-still-be-the-best
-[6]: slackinaugur.herokuapp.com
-[7]: www.asana.com
+[6]: https://zapier.com/learn/the-ultimate-guide-to-remote-working/
+[7]: slackinaugur.herokuapp.com
+[8]: www.asana.com
+[9]: https://github.com/AugurProject/augur/issues
