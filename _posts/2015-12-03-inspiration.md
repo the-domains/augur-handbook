@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: inspiration for Augur
-datePublished: '2015-12-03T02:39:50.093Z'
-dateModified: '2015-12-03T02:39:27.176Z'
+datePublished: '2015-12-03T02:41:28.330Z'
+dateModified: '2015-12-03T02:41:08.081Z'
 title: Inspiration
 author: []
 sourcePath: _posts/2015-12-03-inspiration.md
