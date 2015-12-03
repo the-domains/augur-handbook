@@ -1,25 +1,25 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: Books to read
-datePublished: '2015-12-03T02:41:32.470Z'
-dateModified: '2015-12-03T02:41:06.209Z'
+datePublished: '2015-12-03T02:52:28.925Z'
+dateModified: '2015-12-03T02:52:25.438Z'
 title: Reading List
 author: []
+sourcePath: _posts/2015-12-03-reading-list.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-03-reading-list.md
-published: true
 url: reading-list/index.html
-_type: Article
+_type: WebPage
 
 ---
 [The Wisdom of Crowds][0]
