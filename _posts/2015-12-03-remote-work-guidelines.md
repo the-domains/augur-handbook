@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-03T02:39:55.732Z'
-dateModified: '2015-12-03T02:39:30.148Z'
+datePublished: '2015-12-03T02:41:23.350Z'
+dateModified: '2015-12-03T02:41:17.305Z'
 title: Remote Work Guidelines
 author: []
 sourcePath: _posts/2015-12-03-remote-work-guidelines.md
