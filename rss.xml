@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Augur Handbook]]></title>
         <description><![CDATA[Augur Handbook]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/augur-handbook/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 03 Dec 2015 02:54:15 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 03 Dec 2015 02:54:35 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/augur-handbook/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[logo]]></title>
             <description><![CDATA[<article><h1>logo</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2a4e1a49-6420-4a04-a1e9-8994a947d707.png"></article>]]></description>
-            <link>undefinedlogo/index.html</link>
+            <link>https://thegrid.ai/augur-handbook/logo/index.html</link>
             <guid isPermaLink="false">f2abea3f-26e1-4339-ac45-adeb989f7fc6</guid>
-            <pubDate>Thu, 03 Dec 2015 02:54:15 GMT</pubDate>
+            <pubDate>Thu, 03 Dec 2015 02:54:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
