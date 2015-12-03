@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-03T02:31:55.720Z'
-dateModified: '2015-12-03T02:31:52.144Z'
+datePublished: '2015-12-03T02:34:24.971Z'
+dateModified: '2015-12-03T02:34:19.030Z'
 title: Remote Work Guidelines
 author: []
 sourcePath: _posts/2015-12-03-remote-work-guidelines.md
@@ -30,11 +30,17 @@ _type: Article
 
 [The 3 initial roadblocks of remote work (and how to overcome them)][3]
 
-[][3]Use [Slack][4] & [Asana][5]
+[To Raise Productivity, Let More Employees Work from Home][4]
+
+[How to Work Remotely and Still Be the Best][5][][3]
+
+[][3]Use [Slack][6] & [Asana][7]
 
 [0]: http://teleport.org/2015/11/writing-in-remote-team/
 [1]: http://devslovebacon.com/conferences/bacon-2014/talks/remote-by-default-how-github-makes-working-remotely-not-suck
 [2]: http://teleport.org/2015/10/teleport-remote-work-tips/
 [3]: http://teleport.org/2015/09/overcoming-remote-work-roadblocks/
-[4]: slackinaugur.herokuapp.com
-[5]: www.asana.com
+[4]: https://hbr.org/2014/01/to-raise-productivity-let-more-employees-work-from-home/ar/1
+[5]: http://www.toptal.com/freelance/how-to-work-remotely-and-still-be-the-best
+[6]: slackinaugur.herokuapp.com
+[7]: www.asana.com
