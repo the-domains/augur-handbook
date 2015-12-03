@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: inspiration for Augur
-datePublished: '2015-12-03T02:16:27.613Z'
-dateModified: '2015-12-03T02:16:09.501Z'
+datePublished: '2015-12-03T02:26:38.739Z'
+dateModified: '2015-12-03T02:26:34.575Z'
 title: Inspiration
 author: []
 authors: []
@@ -22,8 +22,9 @@ url: inspiration/index.html
 _type: Article
 
 ---
-Truthcoin
+[Truthcoin][0]
 
-Schellingcoin
+[Schellingcoin][1]
 
-http://bitcoinhivemind.com/papers/hivemind-whitepaper.pdf
+[0]: http://bitcoinhivemind.com/papers/hivemind-whitepaper.pdf
+[1]: https://blog.ethereum.org/2014/03/28/schellingcoin-a-minimal-trust-universal-data-feed/
