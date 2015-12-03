@@ -1,7 +1,7 @@
 name: Augur Handbook
 favicon: null
-layout_spectrum: 0.0786682297475636
-typography_spectrum: 0.6006823359057307
+layout_spectrum: 0.98377
+typography_spectrum: 0.00901
 title: Augur Handbook
 cta:
   domain: null
@@ -17,12 +17,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.2017125473357737
+    - '#63254f'
+    - '#000000'
+    - '#ff0000'
+    - '#00ff00'
+    - '#ffffff'
+  brandStrength: 0.5
   lightness: 0.9399920939467847
   saturation: 0.4420229457318783
   rhythmicContrast: 0.2314580928068608
