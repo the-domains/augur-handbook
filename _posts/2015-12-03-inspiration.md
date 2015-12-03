@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: inspiration for Augur
-datePublished: '2015-12-03T02:26:38.739Z'
-dateModified: '2015-12-03T02:26:34.575Z'
+datePublished: '2015-12-03T02:31:43.526Z'
+dateModified: '2015-12-03T02:31:38.467Z'
 title: Inspiration
 author: []
+sourcePath: _posts/2015-12-03-inspiration.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-03-inspiration.md
-published: true
 url: inspiration/index.html
 _type: Article
 
